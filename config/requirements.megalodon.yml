@@ -1,0 +1,47 @@
+name: megalodon
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nodejs
+  - asciimatics
+  - bitstruct
+  - cartopy
+  - click
+  - dash
+  - dash-bootstrap-components
+  - dash-core-components
+  - dash-html-components
+  - dash-renderer
+  - gunicorn
+  - ijson
+  - ipython
+  - jupyterlab
+  - lunr
+  - markdown
+  - matplotlib
+  - metpy
+  - netcdf4
+  - numpy
+  - openpyxl
+  - pandas
+  - paramiko
+  - pyasn1
+  - pycrypto
+  - pygments
+  - pymysql
+  - pyparsing
+  - python-dateutil
+  - python-gssapi
+  - python-xlib
+  - pyyaml
+  - recommonmark
+  - requests
+  - rich
+  - rich-click
+  - six
+  - sqlalchemy
+  - tmux
+  - tqdm
+  - xlrd
+  - yarn
